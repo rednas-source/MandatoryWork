@@ -1,0 +1,3 @@
+C:/Users/Ole Kristian/Documents/NTNU/5semester/MandatoryWork/C++/Ole Kristian/In1/b/cmake-build-debug/CMakeFiles/b.dir
+C:/Users/Ole Kristian/Documents/NTNU/5semester/MandatoryWork/C++/Ole Kristian/In1/b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ole Kristian/Documents/NTNU/5semester/MandatoryWork/C++/Ole Kristian/In1/b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
